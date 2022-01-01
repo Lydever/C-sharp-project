@@ -1,0 +1,11 @@
+D:\C#Projects\实训三\实训三\obj\x86\Debug\MainWindow.baml
+D:\C#Projects\实训三\实训三\obj\x86\Debug\MainWindow.g.cs
+D:\C#Projects\实训三\实训三\obj\x86\Debug\App.g.cs
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三_MarkupCompile.cache
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三.g.resources
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三.Properties.Resources.resources
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三.csproj.GenerateResource.Cache
+D:\C#Projects\实训三\实训三\bin\Debug\实训三.exe
+D:\C#Projects\实训三\实训三\bin\Debug\实训三.pdb
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三.exe
+D:\C#Projects\实训三\实训三\obj\x86\Debug\实训三.pdb

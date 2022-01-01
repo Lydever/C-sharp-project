@@ -1,0 +1,4 @@
+D:\C#Projects\抽象类与方法1\抽象类与方法1\bin\Debug\抽象类与方法1.exe
+D:\C#Projects\抽象类与方法1\抽象类与方法1\bin\Debug\抽象类与方法1.pdb
+D:\C#Projects\抽象类与方法1\抽象类与方法1\obj\x86\Debug\抽象类与方法1.exe
+D:\C#Projects\抽象类与方法1\抽象类与方法1\obj\x86\Debug\抽象类与方法1.pdb

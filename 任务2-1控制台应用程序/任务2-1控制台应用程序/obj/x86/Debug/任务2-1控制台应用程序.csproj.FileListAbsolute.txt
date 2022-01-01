@@ -1,0 +1,5 @@
+D:\C#Projects\任务2-1控制台应用程序\任务2-1控制台应用程序\bin\Debug\任务2-1控制台应用程序.exe
+D:\C#Projects\任务2-1控制台应用程序\任务2-1控制台应用程序\bin\Debug\任务2-1控制台应用程序.pdb
+D:\C#Projects\任务2-1控制台应用程序\任务2-1控制台应用程序\obj\x86\Debug\任务2-1控制台应用程序.exe
+D:\C#Projects\任务2-1控制台应用程序\任务2-1控制台应用程序\obj\x86\Debug\任务2-1控制台应用程序.pdb
+D:\C#Projects\任务2-1控制台应用程序\任务2-1控制台应用程序\obj\x86\Debug\任务2-1控制台应用程序.csprojResolveAssemblyReference.cache

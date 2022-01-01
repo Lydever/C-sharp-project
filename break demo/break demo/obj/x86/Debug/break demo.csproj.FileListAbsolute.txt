@@ -1,0 +1,4 @@
+D:\C#Projects\break demo\break demo\bin\Debug\break demo.exe
+D:\C#Projects\break demo\break demo\bin\Debug\break demo.pdb
+D:\C#Projects\break demo\break demo\obj\x86\Debug\break demo.exe
+D:\C#Projects\break demo\break demo\obj\x86\Debug\break demo.pdb

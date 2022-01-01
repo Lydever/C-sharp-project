@@ -1,0 +1,4 @@
+D:\C#Projects\Goto demo\Goto demo\bin\Debug\Goto demo.exe
+D:\C#Projects\Goto demo\Goto demo\bin\Debug\Goto demo.pdb
+D:\C#Projects\Goto demo\Goto demo\obj\x86\Debug\Goto demo.exe
+D:\C#Projects\Goto demo\Goto demo\obj\x86\Debug\Goto demo.pdb

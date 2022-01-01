@@ -1,0 +1,7 @@
+D:\C#Projects\实训二\实训二\bin\Debug\实训二.exe
+D:\C#Projects\实训二\实训二\bin\Debug\实训二.pdb
+D:\C#Projects\实训二\实训二\obj\x86\Debug\实训二.Form1.resources
+D:\C#Projects\实训二\实训二\obj\x86\Debug\实训二.Properties.Resources.resources
+D:\C#Projects\实训二\实训二\obj\x86\Debug\实训二.csproj.GenerateResource.Cache
+D:\C#Projects\实训二\实训二\obj\x86\Debug\实训二.exe
+D:\C#Projects\实训二\实训二\obj\x86\Debug\实训二.pdb

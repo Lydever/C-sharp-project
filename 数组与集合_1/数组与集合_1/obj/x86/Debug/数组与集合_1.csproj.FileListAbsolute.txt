@@ -1,0 +1,4 @@
+D:\C#Projects\数组与集合_1\数组与集合_1\bin\Debug\数组与集合_1.exe
+D:\C#Projects\数组与集合_1\数组与集合_1\bin\Debug\数组与集合_1.pdb
+D:\C#Projects\数组与集合_1\数组与集合_1\obj\x86\Debug\数组与集合_1.exe
+D:\C#Projects\数组与集合_1\数组与集合_1\obj\x86\Debug\数组与集合_1.pdb

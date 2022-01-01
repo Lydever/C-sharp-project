@@ -1,0 +1,4 @@
+D:\C#Projects\实训8_矩阵数组\实训8_矩阵数组\bin\Debug\实训8_矩阵数组.exe
+D:\C#Projects\实训8_矩阵数组\实训8_矩阵数组\bin\Debug\实训8_矩阵数组.pdb
+D:\C#Projects\实训8_矩阵数组\实训8_矩阵数组\obj\x86\Debug\实训8_矩阵数组.exe
+D:\C#Projects\实训8_矩阵数组\实训8_矩阵数组\obj\x86\Debug\实训8_矩阵数组.pdb

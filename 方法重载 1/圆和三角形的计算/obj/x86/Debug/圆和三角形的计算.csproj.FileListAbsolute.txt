@@ -1,0 +1,7 @@
+D:\C#Projects\方法重载 1\圆和三角形的计算\bin\Debug\圆和三角形的计算.exe
+D:\C#Projects\方法重载 1\圆和三角形的计算\bin\Debug\圆和三角形的计算.pdb
+D:\C#Projects\方法重载 1\圆和三角形的计算\obj\x86\Debug\圆和三角形的计算.Form1.resources
+D:\C#Projects\方法重载 1\圆和三角形的计算\obj\x86\Debug\圆和三角形的计算.Properties.Resources.resources
+D:\C#Projects\方法重载 1\圆和三角形的计算\obj\x86\Debug\圆和三角形的计算.csproj.GenerateResource.Cache
+D:\C#Projects\方法重载 1\圆和三角形的计算\obj\x86\Debug\圆和三角形的计算.exe
+D:\C#Projects\方法重载 1\圆和三角形的计算\obj\x86\Debug\圆和三角形的计算.pdb

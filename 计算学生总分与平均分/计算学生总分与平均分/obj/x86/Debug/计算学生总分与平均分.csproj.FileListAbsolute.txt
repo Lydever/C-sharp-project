@@ -1,0 +1,7 @@
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\obj\x86\Debug\计算学生总分与平均分.Form1.resources
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\obj\x86\Debug\计算学生总分与平均分.Properties.Resources.resources
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\obj\x86\Debug\计算学生总分与平均分.csproj.GenerateResource.Cache
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\bin\Debug\计算学生总分与平均分.exe
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\bin\Debug\计算学生总分与平均分.pdb
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\obj\x86\Debug\计算学生总分与平均分.exe
+D:\C#Projects\计算学生总分与平均分\计算学生总分与平均分\obj\x86\Debug\计算学生总分与平均分.pdb

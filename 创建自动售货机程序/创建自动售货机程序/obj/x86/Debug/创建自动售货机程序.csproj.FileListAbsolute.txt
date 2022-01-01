@@ -1,0 +1,4 @@
+D:\C#Projects\创建自动售货机程序\创建自动售货机程序\bin\Debug\创建自动售货机程序.exe
+D:\C#Projects\创建自动售货机程序\创建自动售货机程序\bin\Debug\创建自动售货机程序.pdb
+D:\C#Projects\创建自动售货机程序\创建自动售货机程序\obj\x86\Debug\创建自动售货机程序.exe
+D:\C#Projects\创建自动售货机程序\创建自动售货机程序\obj\x86\Debug\创建自动售货机程序.pdb

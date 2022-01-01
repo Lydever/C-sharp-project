@@ -1,0 +1,8 @@
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.Form1.resources
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.Properties.Resources.resources
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.csproj.GenerateResource.Cache
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\bin\Debug\创建Windows窗体运用程序.exe
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\bin\Debug\创建Windows窗体运用程序.pdb
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.exe
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.pdb
+D:\C#Projects\创建Windows窗体运用程序\创建Windows窗体运用程序\obj\x86\Debug\创建Windows窗体运用程序.csprojResolveAssemblyReference.cache

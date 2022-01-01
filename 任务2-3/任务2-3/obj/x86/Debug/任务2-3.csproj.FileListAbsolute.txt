@@ -1,0 +1,11 @@
+D:\C#Projects\任务2-3\任务2-3\bin\Debug\任务2-3.exe
+D:\C#Projects\任务2-3\任务2-3\bin\Debug\任务2-3.pdb
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\MainWindow.baml
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\MainWindow.g.cs
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\App.g.cs
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2-3_MarkupCompile.cache
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2-3.g.resources
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2_3.Properties.Resources.resources
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2-3.csproj.GenerateResource.Cache
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2-3.exe
+D:\C#Projects\任务2-3\任务2-3\obj\x86\Debug\任务2-3.pdb

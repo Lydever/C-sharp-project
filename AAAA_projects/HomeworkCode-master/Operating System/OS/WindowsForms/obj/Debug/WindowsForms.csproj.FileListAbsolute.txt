@@ -1,0 +1,10 @@
+E:\C#Projects\text_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Form.resources
+E:\C#Projects\text_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Form2.resources
+E:\C#Projects\text_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\C#Projects\text_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Form.resources
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Form2.resources
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+E:\C#Projects\AAAA_projects\HomeworkCode-master\Operating System\OS\WindowsForms\bin\Debug\WindowsForms.exe.config

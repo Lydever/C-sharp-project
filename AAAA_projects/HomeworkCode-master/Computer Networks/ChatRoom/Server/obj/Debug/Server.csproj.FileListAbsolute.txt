@@ -1,0 +1,15 @@
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\Server.exe.config
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\Server.exe
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\Server.pdb
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\mscorlib.dll
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\zh-Hans\mscorlib.resources.dll
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\normidna.nlp
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\normnfc.nlp
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\normnfd.nlp
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\normnfkc.nlp
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\bin\Debug\normnfkd.nlp
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\obj\Debug\Server.Properties.Resources.resources
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\obj\Debug\Server.Server.resources
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\obj\Debug\Server.exe
+E:\C#Projects\text_projects\HomeworkCode-master\Computer Networks\ChatRoom\Server\obj\Debug\Server.pdb

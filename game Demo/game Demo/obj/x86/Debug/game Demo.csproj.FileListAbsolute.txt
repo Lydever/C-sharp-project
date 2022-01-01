@@ -1,0 +1,4 @@
+D:\C#Projects\game Demo\game Demo\bin\Debug\game Demo.exe
+D:\C#Projects\game Demo\game Demo\bin\Debug\game Demo.pdb
+D:\C#Projects\game Demo\game Demo\obj\x86\Debug\game Demo.exe
+D:\C#Projects\game Demo\game Demo\obj\x86\Debug\game Demo.pdb

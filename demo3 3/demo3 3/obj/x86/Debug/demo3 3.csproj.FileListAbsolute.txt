@@ -1,0 +1,4 @@
+D:\C#Projects\demo3 3\demo3 3\bin\Debug\demo3 3.exe
+D:\C#Projects\demo3 3\demo3 3\bin\Debug\demo3 3.pdb
+D:\C#Projects\demo3 3\demo3 3\obj\x86\Debug\demo3 3.exe
+D:\C#Projects\demo3 3\demo3 3\obj\x86\Debug\demo3 3.pdb

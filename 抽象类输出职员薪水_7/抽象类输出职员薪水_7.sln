@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类输出职员薪水_7", "抽象类输出职员薪水_7\抽象类输出职员薪水_7.csproj", "{26719E3F-A3F9-4F36-8F6D-4A3F73E0F6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26719E3F-A3F9-4F36-8F6D-4A3F73E0F6B8}.Debug|x86.ActiveCfg = Debug|x86
+		{26719E3F-A3F9-4F36-8F6D-4A3F73E0F6B8}.Debug|x86.Build.0 = Debug|x86
+		{26719E3F-A3F9-4F36-8F6D-4A3F73E0F6B8}.Release|x86.ActiveCfg = Release|x86
+		{26719E3F-A3F9-4F36-8F6D-4A3F73E0F6B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

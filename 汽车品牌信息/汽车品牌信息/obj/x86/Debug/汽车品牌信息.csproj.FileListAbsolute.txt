@@ -1,0 +1,4 @@
+D:\C#Projects\汽车品牌信息\汽车品牌信息\bin\Debug\汽车品牌信息.exe
+D:\C#Projects\汽车品牌信息\汽车品牌信息\bin\Debug\汽车品牌信息.pdb
+D:\C#Projects\汽车品牌信息\汽车品牌信息\obj\x86\Debug\汽车品牌信息.exe
+D:\C#Projects\汽车品牌信息\汽车品牌信息\obj\x86\Debug\汽车品牌信息.pdb

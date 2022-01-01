@@ -1,0 +1,8 @@
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\bin\Debug\项目二-实训四-创建用户登录窗体.exe
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\bin\Debug\项目二-实训四-创建用户登录窗体.pdb
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二_实训四_创建用户登录窗体.Form1.resources
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二_实训四_创建用户登录窗体.Properties.Resources.resources
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二-实训四-创建用户登录窗体.csproj.GenerateResource.Cache
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二-实训四-创建用户登录窗体.exe
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二-实训四-创建用户登录窗体.pdb
+D:\C#Projects\项目二-实训四-创建用户登录窗体\项目二-实训四-创建用户登录窗体\obj\x86\Debug\项目二-实训四-创建用户登录窗体.csprojResolveAssemblyReference.cache

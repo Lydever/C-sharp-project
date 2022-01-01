@@ -1,0 +1,4 @@
+D:\C#Projects\Hashtable_1\Hashtable_1\bin\Debug\Hashtable_1.exe
+D:\C#Projects\Hashtable_1\Hashtable_1\bin\Debug\Hashtable_1.pdb
+D:\C#Projects\Hashtable_1\Hashtable_1\obj\x86\Debug\Hashtable_1.exe
+D:\C#Projects\Hashtable_1\Hashtable_1\obj\x86\Debug\Hashtable_1.pdb

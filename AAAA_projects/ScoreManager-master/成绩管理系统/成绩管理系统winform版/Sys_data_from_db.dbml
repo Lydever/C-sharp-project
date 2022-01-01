@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MyData" Class="StudentDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-P09LKJ6;Initial Catalog=MyData;Integrated Security=True" SettingsObjectName="成绩管理系统winform版.Properties.Settings" SettingsPropertyName="MyDataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.学生" Member="Student">
+    <Type Name="Student">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="number" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="gender" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="classid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Student_Grade" Member="Score" Storage="_Grade" ThisKey="number" OtherKey="stu_number" Type="Score" />
+      <Association Name="_Class_Student" Member="_Class" ThisKey="classid" OtherKey="id" Type="_Class" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.班级" Member="_Class">
+    <Type Name="_Class">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="grade" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="number" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="headmaster" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="_Class_Student" Member="Student" ThisKey="id" OtherKey="classid" Type="Student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.成绩" Member="Score">
+    <Type Name="Score">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="number" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="stu_number" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="score" Type="System.Decimal" DbType="Decimal(3,1) NOT NULL" CanBeNull="false" />
+      <Association Name="Student_Grade" Member="Student" ThisKey="stu_number" OtherKey="number" Type="Student" IsForeignKey="true" />
+      <Association Name="Exam_Grade" Member="Exam" ThisKey="number" OtherKey="number" Type="Exam" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.考试" Member="Exam">
+    <Type Name="Exam">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="number" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="subject" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="grade" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="test_time" Type="System.DateTime" DbType="DateTime2 NOT NULL" CanBeNull="false" />
+      <Association Name="Exam_Grade" Member="Score" Storage="_Grade1" ThisKey="number" OtherKey="number" Type="Score" />
+    </Type>
+  </Table>
+</Database>

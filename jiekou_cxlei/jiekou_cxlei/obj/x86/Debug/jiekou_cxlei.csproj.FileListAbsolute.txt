@@ -1,0 +1,4 @@
+D:\C#Projects\jiekou_cxlei\jiekou_cxlei\bin\Debug\jiekou_cxlei.exe
+D:\C#Projects\jiekou_cxlei\jiekou_cxlei\bin\Debug\jiekou_cxlei.pdb
+D:\C#Projects\jiekou_cxlei\jiekou_cxlei\obj\x86\Debug\jiekou_cxlei.exe
+D:\C#Projects\jiekou_cxlei\jiekou_cxlei\obj\x86\Debug\jiekou_cxlei.pdb

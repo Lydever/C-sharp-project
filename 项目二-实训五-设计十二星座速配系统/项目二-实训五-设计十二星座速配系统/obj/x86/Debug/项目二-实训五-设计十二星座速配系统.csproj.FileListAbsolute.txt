@@ -1,0 +1,8 @@
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二_实训五_设计十二星座速配系统.Form1.resources
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二_实训五_设计十二星座速配系统.Properties.Resources.resources
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二-实训五-设计十二星座速配系统.csproj.GenerateResource.Cache
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\bin\Debug\项目二-实训五-设计十二星座速配系统.exe
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\bin\Debug\项目二-实训五-设计十二星座速配系统.pdb
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二-实训五-设计十二星座速配系统.exe
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二-实训五-设计十二星座速配系统.pdb
+D:\C#Projects\项目二-实训五-设计十二星座速配系统\项目二-实训五-设计十二星座速配系统\obj\x86\Debug\项目二-实训五-设计十二星座速配系统.csprojResolveAssemblyReference.cache

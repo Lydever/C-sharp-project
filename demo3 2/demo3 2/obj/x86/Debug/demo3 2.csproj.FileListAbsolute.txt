@@ -1,0 +1,5 @@
+D:\C#Projects\demo3 2\demo3 2\obj\x86\Debug\demo3 2.csprojResolveAssemblyReference.cache
+D:\C#Projects\demo3 2\demo3 2\bin\Debug\demo3 2.exe
+D:\C#Projects\demo3 2\demo3 2\bin\Debug\demo3 2.pdb
+D:\C#Projects\demo3 2\demo3 2\obj\x86\Debug\demo3 2.exe
+D:\C#Projects\demo3 2\demo3 2\obj\x86\Debug\demo3 2.pdb

@@ -1,0 +1,2 @@
+D:\C#Projects\项目7_抽象类和接口输出职员薪水\项目7_抽象类和接口输出职员薪水\bin\Debug\项目7_抽象类和接口输出职员薪水.exe.config
+D:\C#Projects\项目7_抽象类和接口输出职员薪水\项目7_抽象类和接口输出职员薪水\obj\x86\Debug\项目7_抽象类和接口输出职员薪水.csprojResolveAssemblyReference.cache

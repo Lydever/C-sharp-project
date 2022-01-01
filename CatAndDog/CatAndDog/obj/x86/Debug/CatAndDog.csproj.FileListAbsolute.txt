@@ -1,0 +1,4 @@
+D:\C#Projects\CatAndDog\CatAndDog\obj\x86\Debug\CatAndDog.Properties.Resources.resources
+D:\C#Projects\CatAndDog\CatAndDog\obj\x86\Debug\CatAndDog.csproj.GenerateResource.Cache
+D:\C#Projects\CatAndDog\CatAndDog\obj\x86\Debug\CatAndDog.csprojResolveAssemblyReference.cache
+D:\C#Projects\CatAndDog\CatAndDog\obj\x86\Debug\CatAndDog.Form1.resources

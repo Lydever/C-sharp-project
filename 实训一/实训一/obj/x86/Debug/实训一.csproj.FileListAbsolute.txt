@@ -1,0 +1,4 @@
+D:\C#Projects\实训一\实训一\bin\Debug\实训一.exe
+D:\C#Projects\实训一\实训一\bin\Debug\实训一.pdb
+D:\C#Projects\实训一\实训一\obj\x86\Debug\实训一.exe
+D:\C#Projects\实训一\实训一\obj\x86\Debug\实训一.pdb

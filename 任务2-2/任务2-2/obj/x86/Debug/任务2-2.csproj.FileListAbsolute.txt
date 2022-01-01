@@ -1,0 +1,7 @@
+D:\C#Projects\任务2-2\任务2-2\bin\Debug\任务2-2.exe
+D:\C#Projects\任务2-2\任务2-2\bin\Debug\任务2-2.pdb
+D:\C#Projects\任务2-2\任务2-2\obj\x86\Debug\任务2_2.Form1.resources
+D:\C#Projects\任务2-2\任务2-2\obj\x86\Debug\任务2_2.Properties.Resources.resources
+D:\C#Projects\任务2-2\任务2-2\obj\x86\Debug\任务2-2.csproj.GenerateResource.Cache
+D:\C#Projects\任务2-2\任务2-2\obj\x86\Debug\任务2-2.exe
+D:\C#Projects\任务2-2\任务2-2\obj\x86\Debug\任务2-2.pdb
